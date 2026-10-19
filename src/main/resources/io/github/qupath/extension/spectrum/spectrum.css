@@ -1,0 +1,7 @@
+.channel-slider-custom .thumb {
+    -fx-opacity: 0;
+}
+
+.channel-slider-custom .track {
+    -fx-opacity: 0.65;
+}
